@@ -1,0 +1,13 @@
+{
+    "icon": "https://avatars.githubusercontent.com/u/113779460?s=400&u=7805096bca6ebad1062e99d76e3efa594e2d008f&v=4",
+    "name": "Kixrd's Repo",
+    "apps": [
+      {
+        "title": "u0 Launcher",
+        "urlimg": "https://tweak-box.com/wp-content/uploads/2019/04/uncover-unc0ver-Icon-app-200px.png",
+        "url": "https://github.com/opa334/u0Launcher/releases/download/1.0.1/u0Launcher.ipa",
+        "bundleid": "com.opa334.u0launcher",
+        "completed": false
+      },
+	  ]
+  }
