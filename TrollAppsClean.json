@@ -34,7 +34,7 @@
         "title": "InstaSpring",
         "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/InstaSpring.png?raw=true",
         "url": "https://github.com/haxi0/InstaSpring/releases/download/1.0/InstaSpring.1.0.Fix.ipa",
-        "bundleid": "org.haxi0.instaspring",
+        "bundleid": "org.haxi0.InstaSpring",
         "completed": false
       },
 	  {
@@ -49,6 +49,27 @@
         "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/TrollTools.png?raw=true",
         "url": "https://github.com/sourcelocation/TrollTools/releases/download/2.1.2/TrollTools-2.1.2.tipa",
         "bundleid": "net.sourceloc.TrollTools",
+        "completed": false
+      },
+      {
+        "title": "Taurine (14.0-14.3)",
+        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/taurine.png?raw=true",
+        "url": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+        "bundleid": "org.coolstar.taurine",
+        "completed": false
+      },
+      {
+        "title": "Unc0ver (11.0-14.8) (Use with u0 launcher)",
+        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/u0Launcher.png?raw=true",
+        "url": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+        "bundleid": "science.xnu.undecimus",
+        "completed": false
+      },
+      {
+        "title": "Enmity",
+        "urlimg": "https://github.com/talhah58/trollapps-repo/blob/icons/Enmity.png?raw=true",
+        "url": "https://github.com/enmity-mod/tweak/releases/latest/download/enmity.ipa",
+        "bundleid": "com.hammerandchisel.discord",
         "completed": false
       },
 	  ]
